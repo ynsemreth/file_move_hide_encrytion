@@ -1,0 +1,5 @@
+DosyaTasima
+DosyaTasima$docxTasi
+DosyaTasima$pdfTasi
+DosyaTasima$txtTasi
+DosyaTasima$tumDosyalariTasi
